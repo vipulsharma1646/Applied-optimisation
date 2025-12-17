@@ -8,19 +8,18 @@ This project evaluates the performance of classical optimization techniques on n
 
 ## Experimental Setup
 
-* 
 **Circuit:** 4-qubit ansatz with depth-2, using parameterized RY gates and CNOT entanglement.
 
 
-* 
+ 
 **Hamiltonian:** 2-local Hamiltonian interacting qubit system (Z_0Z_1 + ...).
 
 
-* 
+ 
 **Backend:** Qiskit Aer simulator with shot-based sampling (1024 shots).
 
 
-* 
+ 
 **Constraints:** Circuit depth, fidelity thresholds, and variance limits.
 
 
