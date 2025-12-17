@@ -37,11 +37,11 @@ The study benchmarks six algorithms:
 
 ## Key Findings
 
-* 
+
 **Noise Resilience:** COBYLA and Simulated Annealing demonstrated the strongest resilience against noise and achieved higher fidelity solutions.
 
 
-* 
+ 
 **Convergence:** Gradient-based optimizers (Adam, Momentum-GD) converged faster but were prone to local minima and instability in high-noise settings.
 
 
